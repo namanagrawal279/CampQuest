@@ -1,0 +1,43 @@
+<% layout('layouts/boilerplate.ejs') %>
+<!-- using ejs mate  -->
+<!-- basically we are inserting all the code here inside the body element in layouts/boilerplate.ejs  -->
+<!-- this way we are using the same template for our various views files  -->
+<!-- to ab apne ko maanlo koi bhi stylesheet koi bhi aisa code so sbme common rkhna h for eg navbar , aisa kuch daalna h to ab bas uss ek boilerplate wli file mei daalna pdega , sbme alag alag no need  -->
+
+<h1 class="mb-5">All Campgrounds</h1>
+
+<!-- for the cluster map  -->
+<div id="cluster-map"></div>
+
+    
+        <% for(let campground of campgrounds){ %>
+            <div class="card mb-3">
+                <div class="row">
+                    <div class="col-md-4">
+                        <% if(campground.images.length) { %>
+                            <img crossorigin="anonymous" class="img-fluid" src="<%= campground.images[0].url %>" alt="">
+                        <% } else { %>
+                            <img crossorigin="anonymous" class="img-fluid" src="https://res.cloudinary.com/df4v2cbdf/image/upload/v1728750150/YelpCamp/kxwylpwvmnqqufxht4z3.png" alt="">
+                        <% } %>
+                    </div>
+                    <div class="col-md-8">
+                        <div class="card-body">
+                            <h5 class="card-title"><%= campground.title %></h5>
+                            <p class="card-text"><%= campground.description %></p>
+                            <p class="card-text">
+                                <small class="text-muted"><%= campground.location %></small>
+                            </p>
+                            <a href="/campgrounds/<%= campground._id %>" class="btn btn-primary">View <%= campground.title %></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <% } %>
+</body>
+</html>
+
+<script>
+    const maptilerApiKey = '<%- process.env.MAPTILER_API_KEY %>';
+    const campgrounds = { features: <%- JSON.stringify(campgrounds) %>}
+</script>
+<script src="/javascripts/clusterMap.js"></script>

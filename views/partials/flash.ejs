@@ -1,0 +1,17 @@
+<!-- we are using bootstrap alert classes for flash messages  -->
+
+<!-- logic lgaere ki if success exists and its length is not 0 then only apply the alert class  -->
+<% if(success && success.length){ %>
+    <div class="alert alert-success alert-dismissible fade show" role="alert">
+        <%= success %>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+<% } %>
+
+<!-- same thing we do for error flash messages  -->
+<% if(error && error.length){ %>
+    <div class="alert alert-danger alert-dismissible fade show" role="alert">
+        <%= error %>
+        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button>
+    </div>
+<% } %>

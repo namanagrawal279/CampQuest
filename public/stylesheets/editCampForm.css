@@ -1,0 +1,58 @@
+body{
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
+    url("/images/newCamp.webp");
+    background-position: center;
+    background-size: cover;
+}
+
+.form-card {
+    background-color: rgba(255, 255, 255, 0.1); 
+    padding: 16px;
+    border-radius: 12px;
+    backdrop-filter: blur(8px);
+    border: 1px solid white; 
+}
+
+h1.text-center {
+    font-size: 2.8rem;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.form-label {
+    font-weight: 600;
+    color: #fff;
+}
+
+
+.form-control:focus {
+    border-color: #34c759; 
+}
+
+.input-group-text {
+    background-color: #236734;
+    color: #ffffff;
+    border: none;
+}
+
+input[type="file"] {
+    background-color: rgba(255, 255, 255, 0.85);
+    cursor: pointer;
+}
+
+.form-check-label{
+    color: #fff;
+}
+
+.btn-success {
+    background: #236734;
+    border-radius: 6px;
+    color: #fff;
+}
+
+.btn-success:hover {
+    color: #fff;
+    border-color: #fff;
+    background: rgba(255, 255, 255, 0.15);
+}
+

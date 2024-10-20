@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),
+    url("/images/homebg.avif");
+    background-size: cover;
+    background-position: center;
+}
+.cover-container{
+    max-width: 60vw;
+}
+
+.nav-link{
+    padding: 0.25rem 0;
+    font-weight: 500;
+    color: aliceblue;
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover{
+    color: aliceblue;
+    border-bottom-color:aliceblue ;
+}
+
+.nav-link.active{
+    color: aliceblue;
+    border-bottom-color:aliceblue
+}
+
+
+.btn-secondary{
+    color: black;
+    background-color: white;
+    font-weight: 700;
+}
+
+.btn-secondary:hover{
+    color: black;
+    background-color: aliceblue;
+    font-weight: 700;
+}
+
+
+

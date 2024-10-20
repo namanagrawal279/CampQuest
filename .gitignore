@@ -1,0 +1,4 @@
+# in this file we tell git to ignore these files/directories while uploading the code to github 
+
+node_modules/
+.env
