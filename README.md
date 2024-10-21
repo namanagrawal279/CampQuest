@@ -4,6 +4,7 @@
 ---
 
 <h3>Deployment:</h3>
+
 - 🚀 **Live Demo**: Check out the live version of CampQuest <a href="https://campquest-c1yx.onrender.com/">here</a>
 
 ---
@@ -11,7 +12,7 @@
 <h3>CampQuest Features:</h3>
 
 - 🔑 **User Authentication and Authorisation**: Sign up and log in to manage your campgrounds and reviews.
-- 🏕 **Campground Management**: Create, edit, and delete campgrounds.
+- 🏕  **Campground Management**: Create, edit, and delete campgrounds.
 - 🌟 **Ratings and Reviews**: Share your thoughts and rate campgrounds.
 - 🗺️ **Map Integration**: See campground locations on an interactive map (Maptiler).
 - 📷 **Image Upload**: Upload photos of campgrounds (Cloudinary).
