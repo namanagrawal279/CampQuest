@@ -22,9 +22,9 @@
 <h3>Technologies Used:</h3>
 
 ### Frontend:
--  **HTML5**: Markup language for creating structured web pages.
--  **CSS3**: Styling for layout and design of web pages.
--  **Bootstrap**: Front-end framework for responsive and mobile-first web development.
+-  **HTML5**: Structured the content web page.
+-  **CSS3**: Styling for layout and design of web page.
+-  **Bootstrap**: Front-end framework for responsive web development.
 -  **Maptiler**: Interactive maps for displaying campground locations.
 
 ### Backend:
