@@ -47,3 +47,5 @@
 
 <h3>Screenshots:</h3>
 
+![home]([https://user-images.githubusercontent.com/51289274/113733448-1a3ac300-9718-11eb-9fc7-defb8d2cd9c1.png](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/home.png))
+
