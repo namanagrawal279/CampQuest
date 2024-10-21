@@ -51,4 +51,13 @@
 ![home](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/home.png)
 
 >Register page
+![register](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/register.png)
+
+>Showing Campgrounds
+![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/main%20map.png)
+![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/all%20camps.png)
+![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/single%20camp.png)
+
+>New Campground
+![new](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/new%20camp.png)
 
