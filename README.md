@@ -5,7 +5,7 @@
 
 <h3>Deployment:</h3>
 
-- 🚀 **Live Demo**: Check out the live version of CampQuest <a href="https://campquest-c1yx.onrender.com/" target="_blank" rel="noopener noreferrer">here</a>
+- 🚀 **Live Demo**: Check out the live version of CampQuest <a href="https://campquest-c1yx.onrender.com/">here</a>
 
 ---
 
@@ -43,4 +43,7 @@
 -  **Cloudinary**: Cloud-based image hosting and management for campground images.
 -  **Render**: Cloud platform for deploying the application.
 
+---
+
+<h3>Screenshots:</h3>
 
