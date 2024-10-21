@@ -47,5 +47,8 @@
 
 <h3>Screenshots:</h3>
 
+>HomePage
 ![home](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/home.png)
+
+>Register page
 
