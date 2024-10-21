@@ -5,7 +5,7 @@
 
 <h3>Deployment:</h3>
 
-- 🚀 **Live Demo**: Check out the live version of CampQuest <a href="https://campquest-c1yx.onrender.com/">here</a>
+- 🚀 **Live Demo**: Check out the live version of CampQuest <a href="https://campquest-c1yx.onrender.com/" target="_blank">here</a>
 
 ---
 
