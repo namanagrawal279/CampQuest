@@ -63,6 +63,7 @@
 >New Campground
 ![new](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/new%20camp.png)
 
+---
 
 <h3>How to run:</h3>
 
@@ -77,5 +78,6 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/PrakharAgarwal135/CampQuest.git
    cd CampQuest
+2.
 
 
