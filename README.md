@@ -57,8 +57,8 @@
 ![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/main%20map.png)
 ![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/all%20camps2.png)
 
->>Showing Single Campground
-![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/single%20camp.png)
+>Showing Single Campground
+![show](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/single%20camp2.png)
 
 >New Campground
 ![new](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/new%20camp.png)
