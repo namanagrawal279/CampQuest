@@ -63,3 +63,19 @@
 >New Campground
 ![new](https://github.com/PrakharAgarwal135/CampQuest/blob/main/public/images/readme%20ss/new%20camp.png)
 
+
+<h3>How to run:</h3>
+
+### Prerequisites
+Make sure you have the following installed:
+- [Node.js](https://nodejs.org/) (with npm)
+- [MongoDB](https://www.mongodb.com/) (Make sure MongoDB is running if you’re using a local instance)
+
+### Steps
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/PrakharAgarwal135/CampQuest.git
+   cd CampQuest
+
+
