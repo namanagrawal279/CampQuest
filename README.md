@@ -75,9 +75,37 @@ Make sure you have the following installed:
 ### Steps
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/PrakharAgarwal135/CampQuest.git
    cd CampQuest
-2.
+   
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   
+3. **Set up environment variables:**
+-  Create a `.env` file in the project's root directory.
+-  Add the following variables, replacing the values with your own:
+  
+      ```bash
+      CLOUDINARY_CLOUD_NAME=<your_cloud_name>
+      CLOUDINARY_KEY=<your_cloudinary_key>
+      CLOUDINARY_SECRET=<your_cloudinary_secret>
+      MAPTILER_API_KEY=<your_maptile_api_key>
+      DB_URL=<your_mongo_db_connection_string>
+      SECRET=<your_secret_key>
+
+4. **Run the application:**
+
+   ```bash
+   node app.js
+
+5. **The application should now be running on `http://localhost:3000`**
+
+### Additional Notes
+
+- Ensure MongoDB is running locally, or use a cloud database provider like MongoDB Atlas.
 
 
