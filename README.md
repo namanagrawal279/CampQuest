@@ -1,4 +1,4 @@
-<h1><a href="https://github.com/PrakharAgarwal135/CampQuest?tab=readme-ov-file#">CampQuest</a></h1>
+<h1><a href="https://github.com/PrakharAgarwal135/CampQuest?tab=readme-ov-file#">CampQuest</a>(Major Project)</h1>
 <h3>Discover, Create, and Review Campgrounds</h3>
 
 ---
