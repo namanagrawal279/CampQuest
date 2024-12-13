@@ -25,6 +25,8 @@
 -  **HTML5**: Structured the content web page.
 -  **CSS3**: Styling for layout and design of web page.
 -  **Bootstrap**: Front-end framework for responsive web development.
+-  **JavaScript**: For client-side interactivity and dynamic content manipulation.
+-  **EJS**: Embedded JavaScript
 -  **Maptiler**: Interactive maps for displaying campground locations.
 
 ### Backend:
