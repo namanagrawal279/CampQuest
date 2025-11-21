@@ -79,7 +79,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/PrakharAgarwal135/CampQuest.git
+   git clone https://github.com/namanagrawal279/CampQuest.git
    cd CampQuest
    
 2. **Install dependencies:**
